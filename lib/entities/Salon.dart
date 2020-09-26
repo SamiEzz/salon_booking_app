@@ -7,4 +7,5 @@ class Salon{
   String title;
   String rating;
   ServiceItem services;
+  String imgUrl;
 }
