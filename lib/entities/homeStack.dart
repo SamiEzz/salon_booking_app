@@ -1,0 +1,5 @@
+
+class HomeStack{
+  DateTime refreshTime;
+
+}
