@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:outline_material_icons/outline_material_icons.dart';
+import '../entities/salon.dart';
 
 var serviceList = [
   {'title': 'Men\s Hair Cut', 'duration': 45, 'price': 30},
